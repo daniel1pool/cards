@@ -1,0 +1,54 @@
+
+  body {
+    background-color: lightgray;
+  }
+
+  .noble-truths {
+    background-color: gray;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: arial, sans-serif;
+  }
+  
+  .noble-truths-image {
+    width:100%;
+    max-width: 800px;
+    overflow: hidden;
+  }
+  
+  .noble-truths-title {
+    font-size: 1.8em;
+    padding: 8px 8px 2px 8px;
+    color: white;
+    height: 1em;
+    text-align: center;
+  }
+
+  .noble-truths-text {
+    font-size: 1.5em;
+    padding: 8px 8px 12px 8px;
+    color: lightgray;
+    height: 1.5em;
+    text-align: center;
+  }
+
+  .noble-truths-button-container {
+    max-width: 700px;
+    margin: auto; 
+    border-top: 10px;
+    border-bottom: 10px; 
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.0);
+  }
+
+  .noble-truths-button {
+    background: none;
+    border: none;
+    font-size: 1em;
+    color: lightskyblue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
